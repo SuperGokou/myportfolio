@@ -60,8 +60,8 @@ Alfred requires a local AI server to function.
 ### 2. Install & Run the Frontend
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/alfred-portfolio.git](https://github.com/yourusername/alfred-portfolio.git)
-    cd alfred-portfolio
+    git clone [https://github.com/SuperGokou/myportfolio.git](https://github.com/SuperGokou/myportfolio.git)
+    cd myportfolio
     ```
 2.  Install dependencies:
     ```bash
